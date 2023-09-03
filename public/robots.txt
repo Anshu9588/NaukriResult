@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.naukriresult.co/
+
+# Sitemaps
+Sitemap: https://www.naukriresult.co/sitemap.xml
